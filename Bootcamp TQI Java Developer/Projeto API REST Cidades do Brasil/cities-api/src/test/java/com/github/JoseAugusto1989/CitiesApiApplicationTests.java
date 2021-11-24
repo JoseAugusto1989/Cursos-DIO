@@ -1,4 +1,4 @@
-package com.github.JoseAugusto1989.citiesapi;
+package com.github.JoseAugusto1989;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

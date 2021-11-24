@@ -1,4 +1,4 @@
-package com.github.JoseAugusto1989.citiesapi;
+package com.github.JoseAugusto1989.utils;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
